@@ -46,6 +46,6 @@ term2$ ./tictactoeClient <port> <server-ip>
 
 ![Client Screenshot](client_screenshot.jpg?raw=true "Client Screenshot")
 
-1. Progression of game on the Server
+2. Progression of game on the Server
 
 ![Server Screenshot](server_screenshot.jpg?raw=true "Server Screenshot")
